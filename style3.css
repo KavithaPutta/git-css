@@ -1,0 +1,73 @@
+.container{
+    position: relative;
+    width:100%;
+}
+span{
+    background-color: black;
+    padding-left: 10px;
+}
+h1{
+    display:inline-block;
+    color:white;
+    position: absolute;
+    top:40%;
+    left:40%;
+    font-size: 50px;
+}
+.container-1{
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.child1{
+    width: 100%;
+    position: relative;
+}
+.child1-1{
+    display: inline-block;
+    width:350px;
+}
+.child1-2{
+    display: inline-block;
+    width:350px;
+}
+.child1-3{
+    display: inline-block;
+    width:350px;
+}
+.child1-4{
+    display: inline-block;
+    width:350px;
+}
+.child-2{
+    width: 100%;
+    position: relative;
+}
+.child2-1{
+    display: inline-block;
+    width:350px;
+}
+.child2-2{
+    display: inline-block;
+    width:350px;
+}
+.child2-3{
+    display: inline-block;
+    width:350px;
+}
+.child2-4{
+    display: inline-block;
+    width:350px;
+}
+p{
+    color: white;
+    background-color: black;
+    position: absolute;
+    top:0%;
+    margin: 0%;
+    padding: 10px;
+    font-size: 20px;
+}
+img{
+    width: 100%;
+}
