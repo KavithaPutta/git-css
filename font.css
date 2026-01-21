@@ -1,0 +1,31 @@
+/* p{
+    font-family: fantasy;
+} */
+ /* p{
+    font-size: 2em;
+ } */
+/* p{
+    font-style: oblique;
+}   */
+/* p{
+    font-weight: 900;
+}    */
+/* p{
+    font-variant: normal;
+}     */
+/* p{
+    line-height: 2;
+}      */
+/* p{
+    letter-spacing: 2px;
+
+}       */
+/* p{
+    word-spacing: 5px;
+}        */
+/* p{
+    text-transform: capitalize;
+}         */
+p{
+    font: italic small-caps 700 2rem /1.5 Arial;
+}         
